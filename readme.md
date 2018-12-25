@@ -1,2 +1,7 @@
 for git skill 
-first commit  master test
+<<<<<<< HEAD
+
+=======
+first commit
+por test
+>>>>>>> pro
